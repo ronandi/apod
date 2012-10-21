@@ -1,0 +1,22 @@
+{
+  "name": "apod",
+  "version": "0.0.1",
+  "description": "Node.js library for APODs",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronandi/apod.git"
+  },
+  "keywords": [
+    "nasa",
+    "apod"
+  ],
+  "author": "Rohit Kumar",
+  "license": "BSD"
+}
