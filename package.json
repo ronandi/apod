@@ -18,5 +18,10 @@
     "apod"
   ],
   "author": "Rohit Kumar",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "mocha": "",
+    "should": "",
+    "apricot": ""
+  }
 }
