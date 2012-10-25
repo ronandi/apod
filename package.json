@@ -20,9 +20,11 @@
   "author": "Rohit Kumar",
   "license": "BSD",
   "dependencies": {
-    "mocha": "",
     "should": "",
     "request": "",
     "jsdom": ""
+  },
+  "devDependencies": {
+    "mocha": ""
   }
 }

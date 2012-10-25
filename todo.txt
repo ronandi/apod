@@ -1,0 +1,5 @@
+Functionality:
+-getApodArchive: list of apod objects
+-download apod: download a picture given an apod
+-getDesc: get Description of an apod
+
