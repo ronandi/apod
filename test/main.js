@@ -1,13 +1,6 @@
 var should = require ('should');
 var Apod = require('../lib/main').Apod;
 
-describe('Apod urls', function() {
-    it('are valid', function() {
-        var apod = new Apod();
-        (typeof apod.dailyApodUrl).should.eql('string');
-    });
-});
-
 describe('getApodArchiveData', function() {
     describe('with no arguments', function() {
         var apod = new Apod();

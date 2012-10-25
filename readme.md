@@ -2,3 +2,9 @@
     
 A module for getting APODs from nasa's website. 
 
+##Apod functions
+
+###getApodArchive
+
+###getDailyApod
+
