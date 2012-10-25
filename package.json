@@ -22,7 +22,7 @@
   "dependencies": {
     "should": "",
     "request": "",
-    "jsdom": ""
+    "cheerio": ""
   },
   "devDependencies": {
     "mocha": ""
